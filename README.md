@@ -162,17 +162,17 @@ I enjoy building applications, exploring Linux internals, experimenting with net
 │   🌐  FULL-STACK APPLICATIONS                              │
 │       React · Node.js · Express · MongoDB                  │
 │                                                            │
-│   📦  DEVELOPER TOOLS                                     │
+│   📦  DEVELOPER TOOLS                                      │
 │       Automation · Monitoring · APIs · PWAs                │
 │                                                            │
-│   🐧  LINUX / SYSTEM PROJECTS                             │
-│       NixOS · OpenWrt · Networking · Shell                │
+│   🐧  LINUX / SYSTEM PROJECTS                              │
+│       NixOS · OpenWrt · Networking · Shell                 │
 │                                                            │
-│   🔐  SECURITY EXPERIMENTS                                │
-│       Browser Security · Networks · Protocols             │
+│   🔐  SECURITY EXPERIMENTS                                 │
+│       Browser Security · Networks · Protocols              │
 │                                                            │
-│   🤖  AI / ML                                             │
-│       Exploring practical applications of AI              │
+│   🤖  AI / ML                                              │
+│       Exploring practical applications of AI               │
 │                                                            │
 ╰────────────────────────────────────────────────────────────╯
 ```
