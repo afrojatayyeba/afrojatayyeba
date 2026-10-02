@@ -37,14 +37,14 @@
 
 ```text
 ┌──────────────────────────────────────────────────────────────┐
-│  Afroja Tayyeba                                           │
+│  Afroja Tayyeba                                              │
 ├──────────────────────────────────────────────────────────────┤
 │  🎓  Computer Science & Engineering Student                  │
 │  💻  Full-Stack Developer                                    │
 │  🐧  Linux / Open-Source Enthusiast                          │
 │  🧠  Exploring AI / ML                                       │
 │  🔐  Interested in Cybersecurity & System Internals          │
-│  🛠️  Building → Breaking → Understanding → Rebuilding       │
+│  🛠️  Building → Breaking → Understanding → Rebuilding        │
 └──────────────────────────────────────────────────────────────┘
 ```
 
