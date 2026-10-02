@@ -35,6 +35,43 @@
 
 ## 🧑‍💻 `whoami`
 
+<table>
+<tr>
+<td width="50%">
+
+### 🚀 Building
+
+* Experimental Linux projects
+
+</td>
+
+<td width="50%">
+
+### 🧠 Learning
+
+* Browser internals
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+
+### Afroja Tayyeba
+</tr>
+<tr>
+
+* 🎓  Computer Science & Engineering Student                  
+* 💻  Full-Stack Developer                                    
+* 🐧  Linux / Open-Source Enthusiast                          
+* 🧠  Exploring AI / ML                                       
+* 🔐  Interested in Cybersecurity & System Internals          
+* 🛠️  Building → Breaking → Understanding → Rebuilding        
+</tr>
+</table>
+
+<!-- 
 ```text
 ┌──────────────────────────────────────────────────────────────┐
 │  Afroja Tayyeba                                              │
@@ -46,7 +83,7 @@
 │  🔐  Interested in Cybersecurity & System Internals          │
 │  🛠️  Building → Breaking → Understanding → Rebuilding        │
 └──────────────────────────────────────────────────────────────┘
-```
+``` -->
 
 > *"Code is not just instructions for machines — it's a language for building the future."*
 
