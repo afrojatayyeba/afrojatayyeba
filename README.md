@@ -35,7 +35,7 @@
 
 ## 🧑‍💻 `whoami`
 
-<!-- <table>
+<table>
 <tr>
 <td width="50%">
 
@@ -53,7 +53,7 @@
 * 🛠️  Building → Breaking → Understanding → Rebuilding        
 </td>
 </tr>
-</table> -->
+</table>
 
 ## 🧑‍💻 `whoami`
 
