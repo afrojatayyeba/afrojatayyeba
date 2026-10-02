@@ -119,7 +119,7 @@ I enjoy building applications, exploring Linux internals, experimenting with net
 
 <div align="center">
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=c,cpp,python,java,html,css,js,bash&perline=12" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=c,python,java,html,css,js,bash&perline=12" />
 
 </div>
 
@@ -127,7 +127,7 @@ I enjoy building applications, exploring Linux internals, experimenting with net
 
 <div align="center">
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=react,nextjs,tailwind,nodejs,expressjs&perline=12" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=react,tailwind,nodejs,expressjs&perline=12" />
 
 </div>
 
@@ -143,7 +143,7 @@ I enjoy building applications, exploring Linux internals, experimenting with net
 
 <div align="center">
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,vite,wsl,replit,linux,vscode,androidstudio,figma,canva&perline=12" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,vite,linux,vscode,canva&perline=12" />
 
 </div>
 
@@ -153,11 +153,11 @@ I enjoy building applications, exploring Linux internals, experimenting with net
 
 <div align="center">
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=windows,ubuntu,nix,fedora,gnome,android,tailsos,arch&perline=12" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=windows,centos,nix,gnome,android&perline=12" />
 
 <br><br>
 
-`Windows` · `Ubuntu` · `NixOS` · `Fedora` · `Arch` · `GNOME` · `Android` · `Tails`
+`Windows` · `CentOS` · `NixOS` · `GNOME` · `Android`
 
 </div>
 
