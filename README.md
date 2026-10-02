@@ -27,7 +27,7 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=mdomarfarukali&style=for-the-badge&color=39D353&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=afrojatayyeba&style=for-the-badge&color=39D353&label=PROFILE+VIEWS" />
 
 </div>
 
@@ -207,17 +207,17 @@ I enjoy building applications, exploring Linux internals, experimenting with net
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mdomarfarukali&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=transparent&title_color=39D353&text_color=AFAFAF&icon_color=39D353" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=afrojatayyeba&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=transparent&title_color=39D353&text_color=AFAFAF&icon_color=39D353" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdomarfarukali&layout=compact&hide_border=true&theme=transparent&title_color=39D353&text_color=AFAFAF" />
-
-<br><br>
-
-<img width="80%" src="https://streak-stats.demolab.com/?user=mdomarfarukali&theme=transparent&hide_border=true&ring=39D353&fire=39D353&currStreakNum=39D353&sideNums=39D353&currStreakLabel=AFAFAF&sideLabels=AFAFAF&dates=39D353" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afrojatayyeba&layout=compact&hide_border=true&theme=transparent&title_color=39D353&text_color=AFAFAF" />
 
 <br><br>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=mdomarfarukali&theme=github-compact&hide_border=true" />
+<img width="80%" src="https://streak-stats.demolab.com/?user=afrojatayyeba&theme=transparent&hide_border=true&ring=39D353&fire=39D353&currStreakNum=39D353&sideNums=39D353&currStreakLabel=AFAFAF&sideLabels=AFAFAF&dates=39D353" />
+
+<br><br>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=afrojatayyeba&theme=github-compact&hide_border=true" />
 
 </div>
 
@@ -280,7 +280,7 @@ I'm always interested in:
 
 <br>
 
-<a href="https://github.com/mdomarfarukali">
+<a href="https://github.com/afrojatayyeba">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
