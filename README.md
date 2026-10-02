@@ -36,7 +36,7 @@
 ## 🧑‍💻 `whoami`
 
 <table>
-<tr>
+<tr height="50%">
 <td width="50%">
 
 ### Afroja Tayyeba
