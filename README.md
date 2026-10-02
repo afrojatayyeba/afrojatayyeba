@@ -57,10 +57,13 @@
 
 <table>
 <tr>
+<td width="50%">
 
 ### Afroja Tayyeba
+</td>
 </tr>
 <tr>
+<td width="50%">
 
 * 🎓  Computer Science & Engineering Student                  
 * 💻  Full-Stack Developer                                    
@@ -68,6 +71,7 @@
 * 🧠  Exploring AI / ML                                       
 * 🔐  Interested in Cybersecurity & System Internals          
 * 🛠️  Building → Breaking → Understanding → Rebuilding        
+</td>
 </tr>
 </table>
 
