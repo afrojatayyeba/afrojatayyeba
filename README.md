@@ -35,16 +35,15 @@
 
 ## 🧑‍💻 `whoami`
 
-<table>
-<tr height="50%">
+<!-- <table>
+<tr>
 <td width="50%">
 
 ### Afroja Tayyeba
 </td>
 </tr>
 <tr>
-<td>
-<!-- <td width="50%"> -->
+<td width="50%">
 
 * 🎓  Computer Science & Engineering Student                  
 * 💻  Full-Stack Developer                                    
@@ -52,6 +51,31 @@
 * 🧠  Exploring AI / ML                                       
 * 🔐  Interested in Cybersecurity & System Internals          
 * 🛠️  Building → Breaking → Understanding → Rebuilding        
+</td>
+</tr>
+</table> -->
+
+## 🧑‍💻 `whoami`
+
+<table>
+<tr>
+<td width="50%">
+
+### Afroja Tayyeba
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+- 🎓 Computer Science & Engineering Student
+- 💻 Full-Stack Developer
+- 🐧 Linux / Open-Source Enthusiast
+- 🧠 Exploring AI / ML
+- 🔐 Interested in Cybersecurity & System Internals
+- 🛠️ Building → Breaking → Understanding → Rebuilding
+
 </td>
 </tr>
 </table>
