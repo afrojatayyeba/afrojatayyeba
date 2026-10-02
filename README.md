@@ -39,31 +39,12 @@
 <tr>
 <td width="50%">
 
-### 🚀 Building
-
-* Experimental Linux projects
-
-</td>
-
-<td width="50%">
-
-### 🧠 Learning
-
-* Browser internals
-
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="50%">
-
 ### Afroja Tayyeba
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td>
+<!-- <td width="50%"> -->
 
 * 🎓  Computer Science & Engineering Student                  
 * 💻  Full-Stack Developer                                    
